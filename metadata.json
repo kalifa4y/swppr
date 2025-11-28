@@ -1,0 +1,5 @@
+{
+  "name": "swppr.",
+  "description": "A cross-platform mobile-first crypto exchange application powered by SwapZone API. Features real-time rates, swap tracking, and local history.",
+  "requestFramePermissions": []
+}
